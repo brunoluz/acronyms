@@ -6,6 +6,7 @@
 |su  |substitute user        |
 |sudo|superuser do           |
 |YaST|Yet another Setup Tool |
+|ssh |secure shell           |
 
 ## Hadoop
 |word|meaning                        |
