@@ -12,3 +12,9 @@
 |word|meaning                        |
 |----|-------------------------------|
 |Yarn|Yet another resource negociator|
+
+## Internet
+|word|meaning                         |
+|----|--------------------------------|
+|POP |Post Office Protocol            |
+|IMAP|Internet Message Access Protocol|
