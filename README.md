@@ -18,3 +18,9 @@
 |----|--------------------------------|
 |POP |Post Office Protocol            |
 |IMAP|Internet Message Access Protocol|
+
+## Hardware
+|word|meaning                              |
+|----|-------------------------------------|
+|BIOS|Basic Input Output System            |
+|UEFI|Unified Extensible Firmware Interface|
