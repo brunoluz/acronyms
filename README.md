@@ -26,3 +26,5 @@
 |----|-------------------------------------|
 |BIOS|Basic Input Output System            |
 |UEFI|Unified Extensible Firmware Interface|
+|MBR |Master Boot Record                   |
+|GPT |GUID Partition Table                 |
