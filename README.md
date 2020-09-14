@@ -7,6 +7,8 @@
 |sudo|superuser do           |
 |YaST|Yet another Setup Tool |
 |ssh |secure shell           |
+|sh  |bourne shell           |
+|bash|bourne again shell     |
 
 ## Hadoop
 |word|meaning                        |
