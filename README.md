@@ -9,6 +9,8 @@
 |ssh |secure shell           |
 |sh  |bourne shell           |
 |bash|bourne again shell     |
+|tar |tape archive           |
+|dd  |disk-to-disk or data-definition (jokes: disk-destroyer and delete-data)|
 
 ## Hadoop
 |word|meaning                        |
