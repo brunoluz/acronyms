@@ -11,7 +11,8 @@
 |bash|bourne again shell|
 |tar|tape archive|
 |dd|disk-to-disk or data-definition (jokes: disk-destroyer and delete-data)|
-|vim||vi improved|
+|vim|vi improved|
+|cat|concatenate|
 
 ## Hadoop
 |word|meaning|
