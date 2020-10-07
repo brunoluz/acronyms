@@ -13,6 +13,7 @@
 |dd|disk-to-disk or data-definition (jokes: disk-destroyer and delete-data)|
 |vim|vi improved|
 |cat|concatenate|
+|sed|stream editor|
 
 ## Hadoop
 |word|meaning|
