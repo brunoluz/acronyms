@@ -14,6 +14,14 @@
 |vim|vi improved|
 |cat|concatenate|
 |sed|stream editor|
+|wc|word count|
+
+## Network
+|word|meaning|
+|-|-|
+|IP|Internet Protocol|
+|DHCP|Dynamic Host Configuration Protocol|
+|DNS|Domain Name System|
 
 ## Hadoop
 |word|meaning|
