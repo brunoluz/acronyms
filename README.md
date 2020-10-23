@@ -15,6 +15,7 @@
 |cat|concatenate|
 |sed|stream editor|
 |wc|word count|
+|scp|secure copy|
 
 ## Network
 |word|meaning|
@@ -23,6 +24,7 @@
 |DHCP|Dynamic Host Configuration Protocol|
 |DNS|Domain Name System|
 |FTP|File Transfer Prtocol|
+
 
 ## Hadoop
 |word|meaning|
