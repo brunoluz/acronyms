@@ -16,6 +16,7 @@
 |sed|stream editor|
 |wc|word count|
 |scp|secure copy|
+|CUPS|Common UNIX Printing System|
 
 ## Network
 |word|meaning|
