@@ -9,6 +9,7 @@
 |ssh |secure shell           |
 |sh  |bourne shell           |
 |bash|bourne again shell     |
+|pam|pluggable authentication modules|
 
 ## Hadoop
 |word|meaning                        |
